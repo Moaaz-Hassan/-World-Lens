@@ -5,3 +5,5 @@ Users can explore various countries, view their photos, and navigate smoothly be
 
 Built with **pure HTML**, **CSS**, and **JavaScript**, the project offers a **clean**, **responsive**, and **lightweight** interface.  
 It also allows adding new countries and photos directly through the interface, providing a **fun** and **seamless** user experience.
+
+**Project's linke on Google Drive** https://drive.google.com/file/d/1DREzNT5qeA54xI3-SMHwRYou23VPzKQ-/view?usp=sharing
